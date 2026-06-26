@@ -1,0 +1,10 @@
+numero,categoria,archivo,sentimiento_esperado,palabras,fuentes_principales
+1,Acidificación oceánica,01_acidificacion_oceanica.txt,Negativo / alerta,5104,"UNESCO; NRDC; Universidad de Concepción; AQUA/Instituto SECOS; Copernicus Marine Service; Smithsonian Tropical Research Institute; Reef Resilience Network"
+2,Deforestación,02_deforestacion.txt,Negativo / mixto,5060,"DiCYT/CSIC y Universidad de Exeter; La Vanguardia; DW; Movimiento Mundial por los Bosques Tropicales (WRM); ELAW; Revista Costas"
+3,Derrames de petróleo,03_derrames_petroleo.txt,Negativo,5064,"CNN en Español; BBC Mundo; Mongabay Latam; France 24; SciELO Perú; El Salto Diario; La República"
+4,Sequía,04_sequia.txt,Negativo,5080,"Universitat de Barcelona/IRBio; RTVE; INECOL; Greenpeace España; Ecologistas en Acción; Oficina C (Congreso de España)"
+5,Incendios,05_incendios.txt,Negativo / mixto,5144,"CETAM; CR2 (Centro de Ciencia del Clima y la Resiliencia); Sustentable UC; Sociedad Chilena de la Ciencia del Suelo; Sociedad de Ecología de Chile; CONAF"
+6,Recuperación de especies,06_recuperacion_especies.txt,Positivo,5116,"Noticias ONU; Gobierno del Perú/MINAM; Presidencia de República Dominicana; Mongabay Latam; Endangered Species Research (Infobae/AP/La República); estudio Carlos Duarte (Posibl.); AIDA; ECOticias/EFE"
+7,Áreas protegidas,07_areas_protegidas.txt,Mixto / positivo,5204,"Infobae; Gobierno del Perú/MINAM; Oceana Europe; Consumer (Eroski); Seas At Risk; WWF España; Bluewave Alliance/ICM-CSIC"
+8,Restauración,08_restauracion.txt,Positivo / mixto,5014,"20minutos; CEAB-CSIC; Greenpeace España/Oceana Europe; Consejo de la UE (Animal's Health); Anthesis Group; ECOticias; LIFE Ecorest; Infobae"
+9,Política ambiental,09_politica_ambiental.txt,Positivo y Negativo / alerta,5055,"UNESCO; La Moncloa (Gobierno de España); Semarnat/WWF México/Biodiversidad Mexicana; Noticias ONU (OMM); La Nación; MundoGEO (IPCC)"
